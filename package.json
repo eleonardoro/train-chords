@@ -1,12 +1,14 @@
 {
   "name": "train-chords",
   "version": "0.1.0",
+  "homepage": "https://eleonardoro.github.io/train-chords",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.5.0",
+    "gh-pages": "^3.0.0",
     "i18next": "^19.4.5",
     "i18next-xhr-backend": "^3.2.2",
     "react": "^16.13.1",
@@ -20,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
