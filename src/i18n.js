@@ -9,7 +9,7 @@ i18n
         lng: 'en',
         backend: {
             /* translation file path */
-            loadPath: '/train-chords/assets/i18n/{{ns}}/{{lng}}.json'
+            loadPath: 'train-chords/assets/i18n/{{ns}}/{{lng}}.json'
         },
         fallbackLng: 'en',
         debug: false,
