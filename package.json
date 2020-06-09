@@ -1,13 +1,19 @@
 {
-  "name": "neway-treinar-acordes",
+  "name": "train-chords",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.5.0",
+    "i18next": "^19.4.5",
+    "i18next-xhr-backend": "^3.2.2",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
+    "react-flag-icon-css": "^1.0.25",
+    "react-i18next": "^11.5.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {

@@ -2,37 +2,91 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 10px 0px 10px 0px;
 }
 
-.App-link {
-  color: #61dafb;
+.chords {
+  padding: 15px;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.check-chord{
+  margin: 3px;
+}
+
+.row-checks{
+  margin-top: 5px;
+}
+
+.checks{
+  margin-top: 5px;
+}
+
+.check-options{
+  cursor: pointer;
+}
+
+.order-inputs{
+  cursor: pointer;
+}
+
+.order-labels{
+  cursor: pointer;
+  padding: 15px;
+}
+
+.input-edit{
+  width: 50px;
+  margin: 0px 5px 0px 5px;
+}
+
+.change-labels{
+  cursor: pointer;
+  padding: 15px;
+}
+
+.change-inputs{
+  cursor: pointer;
+}
+
+.card-body{
+  padding: 0.5rem;
+}
+
+.stop-labels{
+  cursor: pointer;
+  padding: 15px;
+}
+
+.stop-inputs{
+  cursor: pointer;
+}
+
+.buttons{
+  margin: 15px 10px 10px 10px;
+}
+
+.card-style{
+  width: 38rem;
+  margin: 5px 0px 5px 0px;
+}
+
+.bottom-info{
+  margin-bottom: 10px;
+}
+
+.card-title{
+  margin-bottom: 5px;
+}
+
+.flags{
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.developedBy{
+  margin-left: 15px;
 }
