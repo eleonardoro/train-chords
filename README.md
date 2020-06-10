@@ -16,7 +16,7 @@
     <a href="https://github.com/eleonardoro/train-chords/issues">
         <img alt="Repository issues" src="https://img.shields.io/github/issues/eleonardoro/train-chords.svg">
     </a>
-    <img alt="GitHub" src="https://img.shields.io/github/license/eleonardoro/train-chords.svg">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-yellowgreen">
 </p>
 
 <p align="center">
