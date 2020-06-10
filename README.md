@@ -69,7 +69,7 @@ $ npm run start
 
 ## :memo: License
 This project is under the MIT license. See the
-[LICENSE](github.com/eleonardoro/train-chords/blob/master/LICENSE) for more information.
+[LICENSE](https://github.com/eleonardoro/train-chords/blob/master/LICENSE) for more information.
 
 ---
 
