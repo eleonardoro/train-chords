@@ -27,11 +27,14 @@
 </p>
 
 ![App Screenshot](https://res.cloudinary.com/eleonardoro/image/upload/v1591748614/train-chords-english_mgpduz.png)
-<h3 align="center">
+
+<p>
     <a href="http://train-chordes.surge.sh/" target="_blank">
-        Try it on Surge!
+        <h3 align="center">
+            Try it on Surge!
+       </h3>
     </a>
-</h3>
+<p>
 
 ## :computer: Technologies
 
