@@ -1,68 +1,81 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    Train Chords
+</h1>
 
-## Available Scripts
+<h4 align="center">
+    React app that helps you Train Chords!
+</h4>
 
-In the project directory, you can run:
+<p align="center">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eleonardoro/train-chords.svg">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eleonardoro/train-chords.svg">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/eleonardoro/train-chords.svg">
+    <a href="https://github.com/eleonardoro/train-chords/commits/master">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eleonardoro/train-chords.svg">
+    </a>
+    <a href="https://github.com/eleonardoro/train-chords/issues">
+        <img alt="Repository issues" src="https://img.shields.io/github/issues/eleonardoro/train-chords.svg">
+    </a>
+    <img alt="GitHub" src="https://img.shields.io/github/license/eleonardoro/train-chords.svg">
+</p>
 
-### `yarn start`
+<p align="center">
+    <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#memo-license">License</a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![App Screenshot](https://res.cloudinary.com/eleonardoro/image/upload/v1591748614/train-chords-english_mgpduz.png)
+<p>
+    <a href="http://train-chordes.surge.sh/" target="_blank">
+        <h3 align="center">Try it on Surge!</h3>
+    </a>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## :computer: Technologies
 
-### `yarn test`
+This project was developed for learning purposes with the following technologies:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React-Native](https://facebook.github.io/react-native/)
+- [create-react-app](https://github.com/facebook/create-react-app)
+- [bootstrap](https://getbootstrap.com/)
+- [react-bootstrap](https://react-bootstrap.github.io/)
+- [react-flag-icon-css](https://www.npmjs.com/package/react-flag-icon-css)
+- [i18next](https://www.i18next.com/)
+- [react-i18next](https://react.i18next.com/)
+- [surge](http://surge.sh/)
+- [VS Code][vc]
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :information_source: How To Use
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12.16.2][nodejs] or higher + [Npm
+v6.14.4][npm] or higher installed on your computer. From your command line:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Clone this repository
+$ git clone https://github.com/eleonardoro/train-chords train-chords
 
-### `yarn eject`
+# Go into the repository
+$ cd train-chords
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Install dependencies
+$ npm i
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Run the app
+$ npm run start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :memo: License
+This project is under the MIT license. See the
+[LICENSE](github.com/eleonardoro/train-chords/blob/master/LICENSE) for more information.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Made with :purple_heart: :heartpulse: && :church: by Eleonardo Oliveira :wave: [Say
+hi!](https://www.linkedin.com/in/eleonardo/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[nodejs]: https://nodejs.org/
+[npm]: https://www.npmjs.com/
+[vc]: https://code.visualstudio.com/
