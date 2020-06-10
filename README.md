@@ -1,5 +1,5 @@
 <h1 align="center">
-    Train Chords
+    Train Chords :guitar::musical_note:
 </h1>
 
 <h4 align="center">
