@@ -284,13 +284,12 @@ function App() {
     i18n.changeLanguage( language );
   };
 
-
   return (
     <div className="App">
       <Suspense fallback={null}>
         <div className="float-right">
           <span onClick={() => { changeLanguage( 'en' ); }}><FlagIcon code="us" size="2x" className="flags" /></span>
-          <span onClick={() => { changeLanguage( 'pt-br' ); }}><FlagIcon code="br" size="2x" className="flags" /></span>
+          <span onClick={() => { changeLanguage( 'pt' ); }}><FlagIcon code="br" size="2x" className="flags" /></span>
         </div>
         <div className="float-left developedBy">
           {t( "developedBy.label" )} Eleonardo Oliveira -
