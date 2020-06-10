@@ -22,6 +22,7 @@
 <p align="center">
     <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#page_facing_up-improve">Improve</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#memo-license">License</a>
 </p>
 
@@ -67,13 +68,23 @@ $ npm run start
 
 ```
 
+## :page_facing_up: Improve
+
+Use it? Like it? Want to improve it? Here go some ideas:
+- :heavy_check_mark: Change Chords of Text to cards that flip
+- :heavy_check_mark: Add option to show the image of Chords: Never | Ever | After some time (should check if not bigger than time to change :eyes:)
+- :heavy_check_mark: General time counter 
+- :heavy_check_mark: Countdown timer for next Chord change
+- :heavy_check_mark: imagem ds acordes
+
+
 ## :memo: License
 This project is under the MIT license. See the
 [LICENSE](https://github.com/eleonardoro/train-chords/blob/master/LICENSE) for more information.
 
 ---
 
-Made with :purple_heart: :heartpulse: && :church: by Eleonardo Oliveira :wave: [Say
+Made with :purple_heart::heartpulse: && :church: by Eleonardo Oliveira :wave: [Say
 hi!](https://www.linkedin.com/in/eleonardo/)
 
 [nodejs]: https://nodejs.org/
