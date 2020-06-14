@@ -23,14 +23,12 @@ function App() {
   const [stopVariableMinutes, setStopVariableMinutes] = useState( 10 );
   const [isActive, setIsActive] = useState( false );
 
-
   const handleCheckChords = e => {
     const index = allChords.findIndex( x => x === e.target.value );
 
     var chordsAux = [...chords];
     chordsAux[index] = !chordsAux[index];
     setChords( chordsAux );
-
   };
 
   const handleInvertCheckChords = () => {
